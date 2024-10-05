@@ -21,3 +21,7 @@ footer{
     text-align:center;
     padding-top:10px;
 }
+ table th col{
+    background-color: black;
+ }
+ 
